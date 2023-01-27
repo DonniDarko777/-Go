@@ -32,3 +32,5 @@ func vozrost(age int) (string, bool) {
 	}
 	return "Пошел вон сопляк ", false
 }
+
+//test
